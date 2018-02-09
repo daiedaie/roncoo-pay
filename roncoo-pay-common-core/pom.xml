@@ -16,10 +16,8 @@
 
 		<dependency>
 			<groupId>com.alipay</groupId>
-			<artifactId>alipay-sdk-java20171201160035ms</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/alipay-sdk-java20171201160035.jar</systemPath>
+			<artifactId>alipay-sdk-java20171201160035</artifactId>
+			<version>20171201160035</version>
 		</dependency>
 
 		<!-- Spring libs Begin -->
